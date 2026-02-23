@@ -8,6 +8,8 @@
 
 A collection of agent skills focused on helping you craft a strong CV and land more interviews. Each skill is a standalone `SKILL.md` file — install it once, then just talk to Claude naturally.
 
+![cv reviewer](https://github.com/user-attachments/assets/48af712e-d3d3-4150-a2c7-1205a9c881ac)
+
 ---
 
 ## 📦 Skills
