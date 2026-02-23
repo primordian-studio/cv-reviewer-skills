@@ -27,6 +27,10 @@ git clone https://github.com/primordian-studio/cv-reviewer-skills
 ```
 Point Claude Code at the `skills/` directory.
 
+### ChatGPT and others
+
+Just include the SKILL.md along with your CV and tell them to review your CV follow the SKILL specification.
+
 ---
 
 ## 📄 cv-reviewer skill
