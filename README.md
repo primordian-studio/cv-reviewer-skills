@@ -1,5 +1,9 @@
 # cv-reviewer-skills
 
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/primordian-studio/cv-reviewer-skills?style=for-the-badge">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/primordian-studio/cv-reviewer-skills/release-please.yml?style=for-the-badge">
+<img alt="GitHub License" src="https://img.shields.io/github/license/primordian-studio/cv-reviewer-skills?style=for-the-badge">
+
 A collection of agent skills focused on helping you craft a strong CV and land more interviews. Each skill is a standalone `SKILL.md` file — install it once, then just talk to Claude naturally.
 
 ---
