@@ -169,8 +169,6 @@ Correct order by level:
   — SEVERITY: WARNING (⚠️) if failed — do NOT escalate to Critical
 - [ ] No mid-word hyphenation at line breaks
   — SEVERITY: WARNING (⚠️) if failed — do NOT escalate to Critical
-
-### 🔫 Bullet Point Quality
 - [ ] Each bullet starts with a strong past-tense action verb
   — SEVERITY: CRITICAL (🟥) if consistently missing — do NOT downgrade to Warning
 - [ ] No weak verbs: aided, assisted, helped, participated, worked on, utilized, used, ran, coded, exposed to, gained experience
