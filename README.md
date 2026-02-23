@@ -1,8 +1,10 @@
 # cv-reviewer-skills
 
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/primordian-studio/cv-reviewer-skills?style=for-the-badge">
-<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/primordian-studio/cv-reviewer-skills/release-please.yml?style=for-the-badge">
-<img alt="GitHub License" src="https://img.shields.io/github/license/primordian-studio/cv-reviewer-skills?style=for-the-badge">
+<p align="center">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/primordian-studio/cv-reviewer-skills?style=for-the-badge">
+  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/primordian-studio/cv-reviewer-skills/release-please.yml?style=for-the-badge">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/primordian-studio/cv-reviewer-skills?style=for-the-badge">
+</p>
 
 A collection of agent skills focused on helping you craft a strong CV and land more interviews. Each skill is a standalone `SKILL.md` file — install it once, then just talk to Claude naturally.
 
@@ -21,14 +23,17 @@ A collection of agent skills focused on helping you craft a strong CV and land m
 ## 🚀 Installation
 
 ### Claude.ai
+
 1. Go to [claude.ai](https://claude.ai) → **Settings** → **Skills**
 2. Click **Import Skill** and select the `SKILL.md` from the skill folder you want
 3. Done — Claude will automatically use the skill when relevant
 
 ### Claude Code
+
 ```bash
 git clone https://github.com/primordian-studio/cv-reviewer-skills
 ```
+
 Point Claude Code at the `skills/` directory.
 
 ### ChatGPT and others
